@@ -1,0 +1,35 @@
+value for nodes 8
+
+value for nodes A
+
+value for nodes B
+
+value for nodes C
+
+value for nodes D
+
+value for nodes E
+
+value for nodes F
+
+value for nodes G
+
+Number of vertices in the graph: 7
+
+-------- graph --------
+7
+
+A: B, G,
+B: A, D, E,
+C: F,
+D: B, E,
+E: B, D,
+F: C,
+G: A,
+------- end of graph ------
+
+------- traverse of graph ------
+A B D E G C F 
+(A, B) (B, D) (D, E) (E, G) (G, C) (F, F) 
+--------- end of traverse -------
+
